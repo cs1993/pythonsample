@@ -12,5 +12,5 @@ def pattern():
 
 print(pattern())
 
-
+//pattern
 
