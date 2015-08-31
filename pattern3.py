@@ -20,3 +20,4 @@ if __name__ == "__main__":
     i = raw_input("enter when you want to suffle: ")
     n = raw_input("enter no of lines: ")
     print pattern(int(n), int(i))
+#git reset

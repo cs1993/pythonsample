@@ -10,3 +10,4 @@ def pattern2(n):
 if __name__ == '__main__':
     print pattern2(int(raw_input("enter the no of lines: ")))
 //this for stash
+#git checkout
